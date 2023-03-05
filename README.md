@@ -21,5 +21,14 @@ This list is for [Nuxt 3](https://nuxt.com).
 - [Filepond](./v3/filepond.client.ts) - FilePond is a JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience. [Website](https://pqina.nl/filepond/) | [Docs](https://pqina.nl/filepond/docs/patterns/frameworks/vue/)
 
 
-Follow Us
-- [Twitter](https://twitter.com/productdevbook)
+
+## Contributing
+
+Do you want to contribute to this list ? 
+
+You can contribute by sharing the plugins you use with the community.
+
+
+RT THIS TWEET
+
+- [Twitter](https://twitter.com/productdevbook/status/1632347562454687746)
