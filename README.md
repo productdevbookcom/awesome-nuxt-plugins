@@ -24,7 +24,13 @@ This list is for [Nuxt 3](https://nuxt.com).
 
 ## Contributing
 
-Do you want to contribute to this list ? 
+Do you want to contribute to this code ?
+
+1. cd into the `v3` directory
+2. Create a new file with the name of the plugin you want to add
+3. Add the plugin code
+4. Add the plugin to the list in the `README.md` file
+5. Create a pull request
 
 You can contribute by sharing the plugins you use with the community.
 
