@@ -3,7 +3,7 @@
   "version": "0.1.1-beta.0",
   "description": "Awesome Nuxt.js plugins",
   "scripts": {
-    "release": "bumpp --commit --push --tag && pnpm publish"
+    "release": "bumpp --commit --push --tag"
   },
   "keywords": [
     "nuxt",
