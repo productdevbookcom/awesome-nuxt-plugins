@@ -26,7 +26,7 @@ This list is for [Nuxt 3](https://nuxt.com).
 
 Do you want to contribute to this code ?
 
-1. cd into the `v3` directory
+1. cd into the `v3` directory if you want to contribute to the Nuxt 3 list or `v2` if you want to contribute to the Nuxt 2 list
 2. Create a new file with the name of the plugin you want to add
 3. Add the plugin code
 4. Add the plugin to the list in the `README.md` file
