@@ -2,7 +2,7 @@
 
 A curated list of awesome plugins for Nuxt.js, a popular Vue.js framework for building universal applications. This list includes plugins for various purposes such as SEO, analytics, authentication, performance optimization, and more.
 
-
+There are no npm packaged plugins here.
 
 ## [V3](./v3/)
 
