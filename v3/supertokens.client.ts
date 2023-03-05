@@ -9,7 +9,7 @@ export default defineNuxtPlugin((_nuxtApp) => {
     appInfo: {
       apiDomain: env.public.api,
       apiBasePath: '/auth',
-      appName: 'sudeb',
+      appName: 'appname',
     },
     recipeList: [
       EmailVerification.init(),
