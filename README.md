@@ -4,7 +4,7 @@ A curated list of awesome plugins for Nuxt.js, a popular Vue.js framework for bu
 
 
 
-## V3
+## [V3](./v3/)
 
 This list is for [Nuxt 3](https://nuxt.com).
 
