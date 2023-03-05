@@ -1,6 +1,6 @@
 {
   "name": "awesome-nuxt-plugins",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Awesome Nuxt.js plugins",
   "scripts": {
     "release": "bumpp --commit --push --tag"
